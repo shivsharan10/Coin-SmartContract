@@ -1,6 +1,6 @@
-# Bank Smart Contract
+# Coin Smart Contract [ERC20 Token]
 
-This project demonstrates a Smart Contract deployed on Rinkeby Testnet that perform Deposit and Withdraw transactions on Ethereum Blockchain.
+This project demonstrates an ERC20 Token Smart Contract deployed on Rinkeby Testnet..
 
 ![Oblivion](Oblivion.png)
 
